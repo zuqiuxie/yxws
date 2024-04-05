@@ -6,8 +6,8 @@ const themeConfig: VdoingThemeConfig['themeConfig'] = {
     nav: [
       { text: '首页', link: '/' },
       {
-        text: '小璐歌',
-        link: '/xlg/',
+        text: '医学微视',
+        link: '/yxws/',
         items: [
           {
             text: '三皇五帝',
