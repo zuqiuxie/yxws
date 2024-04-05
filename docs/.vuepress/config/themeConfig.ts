@@ -134,14 +134,6 @@ const themeConfig: VdoingThemeConfig['themeConfig'] = {
           {text: 'kafka', link: '/kafka/'}
         ]
       },
-      {
-        text: '云原生',
-        link: '/CloudNative/',
-        items: [
-          {text: 'docker', link: '/docker/'},
-          {text: 'k8s', link: '/k8s/'}
-        ]
-      },
       { text: '读书破万卷', link: '/readbook/' },
       { text: '周刊', link: '/studyWeekly/' },
       { text: '关于', link: '/about/' },
