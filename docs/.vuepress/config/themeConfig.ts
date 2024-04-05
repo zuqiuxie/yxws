@@ -4,7 +4,6 @@ import htmlModules from './htmlModules' // 自定义插入的html块
 const themeConfig: VdoingThemeConfig['themeConfig'] = {
     // 导航配置
     nav: [
-      { text: '首页', link: '/' },
       {
         text: '医学微视',
         link: '/yxws/',
@@ -127,15 +126,6 @@ const themeConfig: VdoingThemeConfig['themeConfig'] = {
           {text: 'mysql', link: '/mysql/'}
         ]
       },
-      {
-        text: '中间件',
-        link: '/middleware/',
-        items: [
-          {text: 'kafka', link: '/kafka/'}
-        ]
-      },
-      { text: '读书破万卷', link: '/readbook/' },
-      { text: '周刊', link: '/studyWeekly/' },
       { text: '关于', link: '/about/' },
       { text: '我的工具', 
         items: [
