@@ -10,8 +10,8 @@ const themeConfig: VdoingThemeConfig['themeConfig'] = {
         link: '/yxws/',
         items: [
           {
-            text: '三皇五帝',
-            link: '/shwd/'
+            text: '妇产科疾病',
+            link: '/fckjb/'
           },
           {
             text: '夏',
