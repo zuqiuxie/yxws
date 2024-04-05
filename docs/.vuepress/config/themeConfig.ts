@@ -126,35 +126,11 @@ const themeConfig: VdoingThemeConfig['themeConfig'] = {
           {text: 'mysql', link: '/mysql/'}
         ]
       },
+      { text: '分类', link: '/categories/' },
+      { text: '标签', link: '/tags/' },
+      { text: '归档', link: '/archives/' },
+      { text: '友链', link: '/friends/' },
       { text: '关于', link: '/about/' },
-      { text: '我的工具', 
-        items: [
-          { text: '导航', link: 'https://nav.zhengwenfeng.com/'},
-          { text: '代码片段', link: 'https://ref.zhengwenfeng.com/'}
-        ]
-      },
-      {
-        text: '更多',
-        link: '/more/',
-        items: [
-          { text: '收藏', link: '/pages/beb6c0bd8a66cea6/' },
-          { text: '友链', link: '/friends/' },
-          { text: '外部页面', 
-            items: [
-              { text: '开往', link: 'https://www.travellings.cn/go.html' },
-            ]
-          },
-          {
-            text: '索引',
-            link: '/archives/',
-            items: [
-              { text: '分类', link: '/categories/' },
-              { text: '标签', link: '/tags/' },
-              { text: '归档', link: '/archives/' },
-            ],
-          },
-        ],
-      },
       
       
     ],
