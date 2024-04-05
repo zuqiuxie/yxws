@@ -10,12 +10,12 @@ const themeConfig: VdoingThemeConfig['themeConfig'] = {
         link: '/yxws/',
         items: [
           {
-            text: '妇产科疾病',
+            text: '1 妇产科疾病 （124）',
             link: '/fckjb/'
           },
           {
-            text: '夏',
-            link: '/xia/'
+            text: '2 儿科疾病 （134）',
+            link: '/erke/'
           },
           {
             text: '商',
