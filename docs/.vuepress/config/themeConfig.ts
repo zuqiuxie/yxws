@@ -26,8 +26,8 @@ const themeConfig: VdoingThemeConfig['themeConfig'] = {
             link: '/huxi/'
           },
           {
-            text: '东周',
-            link: '/dongzhou/'
+            text: '5 消化系统疾病 （113）',
+            link: '/xiaohua/'
           },
           {
             text: '秦',
