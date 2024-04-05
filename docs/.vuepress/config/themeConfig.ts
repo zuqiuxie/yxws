@@ -119,8 +119,8 @@ const themeConfig: VdoingThemeConfig['themeConfig'] = {
         ]
       },
       {
-        text: '数据库',
-        link: '/database/',
+        text: '院士讲科普',
+        link: '/yuanshi/',
         items: [
           {text: 'redis', link: '/redis/'},
           {text: 'mysql', link: '/mysql/'}
