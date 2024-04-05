@@ -18,12 +18,12 @@ const themeConfig: VdoingThemeConfig['themeConfig'] = {
             link: '/erke/'
           },
           {
-            text: '商',
-            link: '/shang/'
+            text: '3 神经系统疾病 （110）',
+            link: '/shenjing/'
           },
           {
-            text: '西周',
-            link: '/xizhou/'
+            text: '4 呼吸系统疾病 （67）',
+            link: '/huxi/'
           },
           {
             text: '东周',
